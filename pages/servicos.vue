@@ -4,6 +4,7 @@
       <div class="container mx-auto flex items-center space-x-4 h-10 mb-10">
         <NuxtLink to="/a-empresa">A Empresa</NuxtLink>
         <NuxtLink to="/servicos">Serviços</NuxtLink>
+        <NuxtLink to="/produtos">Produtos</NuxtLink>
       </div>
     </div>
 

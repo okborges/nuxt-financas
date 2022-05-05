@@ -10,7 +10,7 @@
 
     <div>
       <div class="container mx-auto">
-        <h1 class="text-lg font-bold">A Empresa</h1>
+        <h1 class="text-lg font-bold">Produtos</h1>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium
           error quibusdam veritatis amet, voluptas quam quos repudiandae ipsam.
